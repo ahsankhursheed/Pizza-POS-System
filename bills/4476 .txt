@@ -1,0 +1,11 @@
+===============================
+                           PIZZA ===============================
+       || BILLING RECEIPT     S# 4476 ||
+===============================
+ Date: 2020-10-16       Time: 21:17:32
+
+           ITEMS                       QUANTITY
+
+Chicken Fajita(S)		|	1
+Chicken Tikka(L)		|	1
+
